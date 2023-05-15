@@ -1,9 +1,9 @@
-## Nama     : Denas Aria Pamungkas
-## NIM      : 312010089
-## Kelas    : TI.20.A.1
+## Nama     : Dutha Khris Phasarilla
+## NIM      : 312110611
+## Kelas    : TI.21.C.6
 ## Matkul   : Pemograman Web
 
-### Praktikum 11 pertemuan 12 PHP Frame Work (Codeigniter) <b>
+### Praktikum 7 pertemuan 9 PHP Frame Work (Codeigniter) <b>
 
 # Langkah - langkah Praktikum
 
