@@ -1,0 +1,30 @@
+CRITICAL - 2022-06-09 02:08:49 --> syntax error, unexpected '}', expecting ';'
+#0 D:\xamp\htdocs\Lab11Web\lab11_php_ci\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xamp\\htdocs\\...')
+#1 D:\xamp\htdocs\Lab11Web\lab11_php_ci\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xamp\htdocs\Lab11Web\lab11_php_ci\ci4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 D:\xamp\htdocs\Lab11Web\lab11_php_ci\ci4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 D:\xamp\htdocs\Lab11Web\lab11_php_ci\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xamp\htdocs\Lab11Web\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-09 02:09:53 --> syntax error, unexpected '}', expecting ';'
+#0 D:\xamp\htdocs\Lab11Web\lab11_php_ci\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xamp\\htdocs\\...')
+#1 D:\xamp\htdocs\Lab11Web\lab11_php_ci\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xamp\htdocs\Lab11Web\lab11_php_ci\ci4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 D:\xamp\htdocs\Lab11Web\lab11_php_ci\ci4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 D:\xamp\htdocs\Lab11Web\lab11_php_ci\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xamp\htdocs\Lab11Web\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-09 02:11:40 --> syntax error, unexpected '}', expecting ';'
+#0 D:\xamp\htdocs\Lab11Web\lab11_php_ci\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xamp\\htdocs\\...')
+#1 D:\xamp\htdocs\Lab11Web\lab11_php_ci\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xamp\htdocs\Lab11Web\lab11_php_ci\ci4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 D:\xamp\htdocs\Lab11Web\lab11_php_ci\ci4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 D:\xamp\htdocs\Lab11Web\lab11_php_ci\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xamp\htdocs\Lab11Web\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
